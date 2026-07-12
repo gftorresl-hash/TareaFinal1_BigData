@@ -1,0 +1,23 @@
+# ============================================================
+# Requirements - AI Student Impact Analysis App
+# ============================================================
+
+# Aplicación web
+streamlit==1.46.1
+
+# Manipulación y análisis de datos
+pandas==2.3.1
+numpy==2.1.3
+
+# Visualizaciones
+plotly==6.2.0
+matplotlib==3.10.3
+
+# Machine Learning
+scikit-learn==1.7.0
+
+# Exportación y generación de reportes
+openpyxl==3.1.5
+
+# Manejo de archivos
+python-dateutil==2.9.0.post0
