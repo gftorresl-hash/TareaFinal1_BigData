@@ -132,47 +132,6 @@ AI-Student-Impact-Analysis/
 ```
 
 ---
-
-# ⚙️ Instalación Local
-
-## 1. Clonar repositorio
-
-```bash
-git clone https://github.com/usuario/AI-Student-Impact-Analysis.git
-```
-
----
-
-## 2. Entrar al proyecto
-
-```bash
-cd AI-Student-Impact-Analysis
-```
-
----
-
-## 3. Instalar dependencias
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 4. Ejecutar aplicación
-
-```bash
-streamlit run app.py
-```
-
-La aplicación estará disponible en:
-
-```
-http://localhost:8501
-```
-
----
-
 # 📊 Dataset
 
 El proyecto utiliza un dataset relacionado con:
